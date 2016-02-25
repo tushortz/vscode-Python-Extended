@@ -4,7 +4,7 @@
 	"description": "Python Extended is a vscode snippet that makes it easy to write codes in python by providing completion options along with all arguments.",
 	"version": "0.0.1",
 	"publisher": "tushortz",
-	"icon": ".icon.png",
+	"icon": "./icon.png",
 	"homepage": "https://github.com/tushortz/vscode-Python-Extended",
 	"engines": {
 		"vscode": "^0.10.6"
