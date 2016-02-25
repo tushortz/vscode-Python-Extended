@@ -4,7 +4,7 @@ Python Extended is a vscode snippet that makes it easy to write codes in python 
 
 ## Preview
 
-![Python Extended Preview](https://raw.githubusercontent.com/tushortz/vscode-Java-Imports/master/images/preview.gif)
+![Python Extended Preview](https://raw.githubusercontent.com/tushortz/vscode-Python-Extended/master/images/preview.gif)
 
 ## Usage
 
