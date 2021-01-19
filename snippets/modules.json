@@ -3178,10 +3178,6 @@
 		"description": "date() from the datetime module",
 		"prefix": "date",
 		"body": ["date(${1:})"]},
-	"datetime A combination of a date and a time. Attributes: () from the datetime module": {
-		"description": "datetime A combination of a date and a time. Attributes: () from the datetime module",
-		"prefix": "datetime A combination of a date and a time. Attributes: ",
-		"body": ["datetime A combination of a date and a time. Attributes: ()"]},
 	"datetime() from the datetime module": {
 		"description": "datetime() from the datetime module",
 		"prefix": "datetime",
