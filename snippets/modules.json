@@ -18379,10 +18379,6 @@
 		"description": "clear() from the turtle module",
 		"prefix": "clear",
 		"body": ["clear(${1:})"]},
-	"clear() from the turtle module": {
-		"description": "clear() from the turtle module",
-		"prefix": "clear",
-		"body": ["clear(${1:})"]},
 	"clearstamp() from the turtle module": {
 		"description": "clearstamp() from the turtle module",
 		"prefix": "clearstamp",
@@ -18539,10 +18535,6 @@
 		"description": "onclick() from the turtle module",
 		"prefix": "onclick",
 		"body": ["onclick(${1:fun}, ${2:btn=1}, ${3:add=None})"]},
-	"onclick() from the turtle module": {
-		"description": "onclick() from the turtle module",
-		"prefix": "onclick",
-		"body": ["onclick(${1:fun}, ${2:btn=1}, ${3:add=None})"]},
 	"ondrag() from the turtle module": {
 		"description": "ondrag() from the turtle module",
 		"prefix": "ondrag",
@@ -18611,10 +18603,6 @@
 		"description": "register_shape() from the turtle module",
 		"prefix": "register_shape",
 		"body": ["register_shape(${1:name}, ${2:shape=None})"]},
-	"reset() from the turtle module": {
-		"description": "reset() from the turtle module",
-		"prefix": "reset",
-		"body": ["reset(${1:})"]},
 	"reset() from the turtle module": {
 		"description": "reset() from the turtle module",
 		"prefix": "reset",
@@ -19960,10 +19948,6 @@
 		"description": "find_user_password() from the urllib.request module",
 		"prefix": "find_user_password",
 		"body": ["find_user_password(${1:realm}, ${2:authuri})"]},
-	"find_user_password() from the urllib.request module": {
-		"description": "find_user_password() from the urllib.request module",
-		"prefix": "find_user_password",
-		"body": ["find_user_password(${1:realm}, ${2:authuri})"]},
 	"ftp_open() from the urllib.request module": {
 		"description": "ftp_open() from the urllib.request module",
 		"prefix": "ftp_open",
@@ -20080,10 +20064,6 @@
 		"description": "pathname2url() from the urllib.request module",
 		"prefix": "pathname2url",
 		"body": ["pathname2url(${1:path})"]},
-	"protocol_open() from the urllib.request module": {
-		"description": "protocol_open() from the urllib.request module",
-		"prefix": "protocol_open",
-		"body": ["protocol_open(${1:req})"]},
 	"protocol_open() from the urllib.request module": {
 		"description": "protocol_open() from the urllib.request module",
 		"prefix": "protocol_open",

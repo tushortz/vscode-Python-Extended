@@ -1,3 +1,4 @@
 *.vsix
 *.pyc
 *.class
+.vscode/
