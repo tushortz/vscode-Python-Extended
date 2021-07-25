@@ -2239,7 +2239,7 @@
 		"body": ["memset(${1:dst}, ${2:c}, ${3:count})"]},
 	"oledll Windows only: Creates () from the ctypes module": {
 		"description": "oledll Windows only: Creates () from the ctypes module",
-		"prefix": "oledll Windows only: Creates ",
+		"prefix": "oledll Windows only; Creates ",
 		"body": ["oledll Windows only: Creates ()"]},
 	"pointer() from the ctypes module": {
 		"description": "pointer() from the ctypes module",
@@ -2279,7 +2279,7 @@
 		"body": ["string_at(${1:address}, ${2:size=-1})"]},
 	"windll Windows only: Creates () from the ctypes module": {
 		"description": "windll Windows only: Creates () from the ctypes module",
-		"prefix": "windll Windows only: Creates ",
+		"prefix": "windll Windows only; Creates ",
 		"body": ["windll Windows only: Creates ()"]},
 	"wstring_at() from the ctypes module": {
 		"description": "wstring_at() from the ctypes module",
